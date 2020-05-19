@@ -1,0 +1,12 @@
+ESTACION           = "Station_SantAntoni"
+FECHA DEL TEST     = "2020-05-07"
+INSTRUMENTO TIPO   = "BARO"
+INSTR_REF_ID       = "SCB-BAR003"
+INSTR_REF_FILE     = "REFERENCIA/"
+INSTR_REF_CAL_DATE = "2019-05-23"
+INSTR_EST_ID       = "SCB-BAR001"
+INSTR_EST_FILE     = "ESTACION/"
+INSTR_EST_CAL_DATE = "2019-05-23"
+TOLERANCIA         = "0.2"
+CONVOLVE           = "7"      #Debe ser impar
+OPERADOR           = "BCasas"
